@@ -1,0 +1,4 @@
+[15676:22556:0910/230046.619:WARNING:chrome_main_delegate.cc(596)] This is Chrome version 116.0.5845.180 (not a warning)
+[15676:22556:0910/230046.684:INFO:chrome_browser_cloud_management_controller.cc(168)] Starting CBCM Controller Initialization
+[15676:22556:0910/230046.684:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[15676:22556:0910/230047.475:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'ambient-light-sensor'.", source:  (0)
